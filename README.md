@@ -10,6 +10,20 @@ This is a project to have a fully functional Watchdog for your download/upload S
 - python-pip
 - speedtest-cli
 
+### Installation and Set-up
+- Clone the repository
+- Import the db into the SQL Database
+- Create a SQL user and give the privilage to edit just the imported db
+- Edit the file ISP-Whatchdog/speedtest-sql.sh and set-up the SQL-USER details
+- Open the terminal and try to run ./ISP-Watchdog/speedtest-sql.sh
+- Open the terminal and write "crontab -e"
+- write ~/ISP-Watchdog/speedtest-sql.sh
+- Restart the computer
+
+# Thanks to Henrik Bengtsson for speedtest-cli-extras
+
+
+
 
 
 
