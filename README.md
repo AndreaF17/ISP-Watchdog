@@ -20,7 +20,8 @@ This is a project to have a fully functional Watchdog for your download/upload S
 - write ~/ISP-Watchdog/speedtest-sql.sh
 - Restart the computer
 
-# Thanks to Henrik Bengtsson for speedtest-cli-extras
+#### Thanks to Henrik Bengtsson for speedtest-cli-extras
+Original directory of speedtest-cli-extras: https://github.com/HenrikBengtsson/speedtest-cli-extras
 
 
 
