@@ -11,7 +11,7 @@ So if you want to argue to your ISP now you have real data traked over the time.
 - python-pip
 - speedtest-cli
 
-### Installation and Set-up
+### Setting up
 - Clone the repository
 - Import the db into the SQL Database
 - Create a SQL user and give the privilage to edit just the imported db
