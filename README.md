@@ -1,5 +1,6 @@
 # ISP-Watchdog
-This is a project to have a fully functional Watchdog for your download/upload Speed and ping that saves all the information inside a mysql DB.
+This is a project to have a fully functional Watchdog for your download/upload speed and ping that saves all the information inside a mysql DB.
+So if you want to argue to your ISP now you have real data traked over the time.
 
 ## Requirement
 - Any Raspberry/Computer with an ethernet adapter for more consistet data. (I used an Raspberry PI 4)
@@ -17,7 +18,7 @@ This is a project to have a fully functional Watchdog for your download/upload S
 - Edit the file ISP-Whatchdog/speedtest-sql.sh and set-up the SQL-USER details
 - Open the terminal and try to run ./ISP-Watchdog/speedtest-sql.sh
 - Open the terminal and write "crontab -e"
-- write ~/ISP-Watchdog/speedtest-sql.sh
+- write @daily ~/ISP-Watchdog/speedtest-sql.sh
 - Restart the computer
 
 #### Thanks to Henrik Bengtsson for speedtest-cli-extras
