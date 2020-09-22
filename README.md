@@ -19,7 +19,7 @@ So if you want to argue to your ISP now you have real data traked over the time.
 - Open the terminal and try to run ./ISP-Watchdog/speedtest-sql.sh
 - Open the terminal and write "crontab -e"
 - write @daily ~/ISP-Watchdog/speedtest-sql.sh
-- Restart the computer
+- Restart the computer/server
 
 #### Thanks to Henrik Bengtsson for speedtest-cli-extras
 Original directory of speedtest-cli-extras: https://github.com/HenrikBengtsson/speedtest-cli-extras
