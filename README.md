@@ -3,7 +3,7 @@ This is a project to have a fully functional Watchdog for your download/upload s
 So if you want to argue to your ISP now you have real data traked over the time.
 
 ## Requirement
-- Any Raspberry/Computer with an ethernet adapter for more consistet data. (I used an Raspberry PI 4)
+- Any Raspberry/Computer with an ethernet adapter for more consistet data. (I used a Raspberry PI 4)
 - Any Linux Distrio (I used Ubuntu 18.04.4 LTS)
 
 ### Software required
